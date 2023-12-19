@@ -4,3 +4,8 @@
 
 /.vs
 /src/*/obj
+/src/*/Properties
+/test/*/obj
+/test/*/Properties
+/src/OIdify/bin/Debug/net8.0
+/test/OIdify.Provider/bin/Debug/net8.0
