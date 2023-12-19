@@ -1,0 +1,6 @@
+@OIdify.Provider_HostAddress = http://localhost:5016
+
+GET {{OIdify.Provider_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
